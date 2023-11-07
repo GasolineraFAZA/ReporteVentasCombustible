@@ -1,0 +1,46 @@
+﻿Procedimiento para cambio de Bandera o cambio de BD de Estación
+
+1) Ir al directorio 
+"C:\Users\Aplicaciones\Documents\Desarrollo\WinForms\EnviarVentasDiariasGasolinerasYPoint\EnviarVentasDiariasGasolinerasYPoint\bin\Debug\SQL"
+y abrir el archivo "CmdSQLObtGasolineras.sql"
+
+2) Modificar el archivo "CmdSQLObtGasolineras.sql" agregando el código de estación nueva en la consulta de este archivo, con el fin
+de que esta nueva BD sea ingnorada en la consulta. Lo anterior debido a que el programa considera un número de arreglos válidos para
+las estaciones activas, al ignorar la nueva BD se le considera una BD aún no activa, pues se pretende enviar los correos del día
+anterior, pues en ese día anterior la nueva BD no debe ser considerada. Como ejemplo considerar que  se agregó el código 31 de la
+nueva BD de independencia en el archivo "CmdSQLObtGasolineras.sql", las XX indican el código que hay de la nueva BD a ignorar
+
+Use SG
+
+Select Cod As Codigo, LTRIM(RTRIM(Abr)) As Nombre
+	From	Gasolineras
+	Where	(																	  XX
+				Cod not in (0, 1, 4, 5, 10, 11, 12, 14, 17, 6, 7, 21, 23, 26, 30, 31) Or
+				1 = :TODAS
+			) AND
+			(											 XX
+				Cod not in (0, 4, 5, 12, 17, 21, 23, 26, 31) Or
+				0 = :TODAS
+			)
+
+3) Enviar el correo de ventas, este enviará información relacionada con el día anterior
+
+4) Una vez enviado el correo, es necesario volver a modificar el archivo "CmdSQLObtGasolineras.sql" para quitar el código de la estación de la nueva BD 
+ignorada y agregar el código de la estación anterior, este ahora será el código ignorado. Como ejemplo, considerando la estación Independencia, 
+el código 31 hay que quitarlo de la consulta, código de la BD de la estación nueva, y agregar el código de la estación anterior 25, ahora será 
+el código ingnorado.
+
+Use SG
+
+Select Cod As Codigo, LTRIM(RTRIM(Abr)) As Nombre
+	From	Gasolineras
+	Where	(															  XX = Quitar el código 31 y agregar el 25
+				Cod not in (0, 1, 4, 5, 10, 11, 12, 14, 17, 6, 7, 21, 23, 25, 26, 30) Or
+				1 = :TODAS
+			) AND
+			(									     XX = Quitar el código 31 y agregar el 25
+				Cod not in (0, 4, 5, 12, 17, 21, 23, 25, 26, 31) Or
+				0 = :TODAS
+			)
+
+5) Volver a enviar el correo
