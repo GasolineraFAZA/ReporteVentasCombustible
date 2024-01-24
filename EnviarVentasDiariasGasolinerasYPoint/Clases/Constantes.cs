@@ -253,8 +253,9 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
                 "+F9xYm1knWTsZ5X/Gm21uGpLdv9oOBiuPWpottrklEA=",
                 "RT3T9D1QE9ZwCjd1gz2jezbdYjnP0kj7U3kVBjdtQLsOHkCU1YQSwQH0UbajapHZ",
 
-                "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",           //jose.campos@faza.com.mx
-                "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",           //Miguel.flores@faza.com.mx
+                "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",           //jose
+                "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",           //Miguel
+                "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",           //Iván
                 //"JbOnWg/pqkyrUPVp5uRahVc3UH0Dq+hy28T5/nUD208="          //reyes_campos@hotmail.com
 
             };
@@ -280,6 +281,7 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
 
                 "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",          //jose.campos@faza.com.mx
                 "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",          //Miguel.flores@faza.com.mxm
+                "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",          //Iván
             };
 
             public static readonly string[] CorreosConSoloEstacionesBcc =
@@ -301,6 +303,7 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
 
                 "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",                             //jose.campos@faza.com.mx
                 "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",                             //Miguel.flores@faza.com.mx
+                "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",                             //Iván
                 //"JbOnWg/pqkyrUPVp5uRahVc3UH0Dq+hy28T5/nUD208="                            //reyes_campos@hotmail.com
             };
 
