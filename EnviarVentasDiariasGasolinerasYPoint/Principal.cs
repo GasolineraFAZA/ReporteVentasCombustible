@@ -82,12 +82,13 @@ namespace EnviarVentasDiariasGasolinerasYPoint
         enum TransaccionesPorTurnoYCajaReng4 { T11R4, T12R4, T21R4, T22R4, T31R4, T32R4 }
         enum TransaccionesPorTurnoYCajaReng5 { T11R5, T12R5, T21R5, T22R5, T31R5, T32R5 }
         enum TransaccionesPorTurnoYCajaReng6 { T11R6, T12R6, T21R6, T22R6, T31R6, T32R6 }
+        enum TransaccionesPorTurnoYCajaReng7 { T11R7, T12R7, T21R7, T22R7, T31R7, T32R7 }
 
-        enum ImportesSucursales { IS1, IS2, IS3, IS4, IS5, IS6 };
+        enum ImportesSucursales { IS1, IS2, IS3, IS4, IS5, IS6, IS7 };
 
-        enum TransaccionesTotales { T1, T2, T3, T4, T5, T6 };
+        enum TransaccionesTotales { T1, T2, T3, T4, T5, T6, T7 };
         enum TransaccionesTurnoYCajaTotales { TT1C1, TT1C2, TT2C1, TT2C2, TT3C1, TT3C2 };
-        enum TransaccionesPromedio { TP1, TP2, TP3, TP4, TP5, TP6 };
+        enum TransaccionesPromedio { TP1, TP2, TP3, TP4, TP5, TP6, TP7 };
 
         enum TransaccionesPorTurnoYCajaRengAcum1 { T11A1, T12A1, T21A1, T22A1, T31A1, T32A1 }
         enum TransaccionesPorTurnoYCajaRengAcum2 { T11A2, T12A2, T21A2, T22A2, T31A2, T32A2 }
@@ -95,6 +96,7 @@ namespace EnviarVentasDiariasGasolinerasYPoint
         enum TransaccionesPorTurnoYCajaRengAcum4 { T11A4, T12A4, T21A4, T22A4, T31A4, T32A4 }
         enum TransaccionesPorTurnoYCajaRengAcum5 { T11A5, T12A5, T21A5, T22A5, T31A5, T32A5 }
         enum TransaccionesPorTurnoYCajaRengAcum6 { T11A6, T12A6, T21A6, T22A6, T31A6, T32A6 }
+        enum TransaccionesPorTurnoYCajaRengAcum7 { T11A7, T12A7, T21A7, T22A7, T31A7, T32A7 }
 
         enum TurnosCajaHoraR1 { T1C1R1H, T1C2R1H, T2C1R1H, T2C2R1H, T3C1R1H, T3C2R1H }
         enum TurnosCajaHoraR2 { T1C1R2H, T1C2R2H, T2C1R2H, T2C2R2H, T3C1R2H, T3C2R2H }
@@ -102,6 +104,7 @@ namespace EnviarVentasDiariasGasolinerasYPoint
         enum TurnosCajaHoraR4 { T1C1R4H, T1C2R4H, T2C1R4H, T2C2R4H, T3C1R4H, T3C2R4H }
         enum TurnosCajaHoraR5 { T1C1R5H, T1C2R5H, T2C1R5H, T2C2R5H, T3C1R5H, T3C2R5H }
         enum TurnosCajaHoraR6 { T1C1R6H, T1C2R6H, T2C1R6H, T2C2R6H, T3C1R6H, T3C2R6H }
+        enum TurnosCajaHoraR7 { T1C1R7H, T1C2R7H, T2C1R7H, T2C2R7H, T3C1R7H, T3C2R7H }
 
         enum NoTicketsReng1 { C1TK1, C2TK1, TOTTK1, IMPTK1, TKPROM1 }
         enum NoTicketsReng2 { C1TK2, C2TK2, TOTTK2, IMPTK2, TKPROM2 }
@@ -109,11 +112,12 @@ namespace EnviarVentasDiariasGasolinerasYPoint
         enum NoTicketsReng4 { C1TK4, C2TK4, TOTTK4, IMPTK4, TKPROM4 }
         enum NoTicketsReng5 { C1TK5, C2TK5, TOTTK5, IMPTK5, TKPROM5 }
         enum NoTicketsReng6 { C1TK6, C2TK6, TOTTK6, IMPTK6, TKPROM6 }
+        enum NoTicketsReng7 { C1TK7, C2TK7, TOTTK7, IMPTK7, TKPROM7 }
         enum NoTicketsRengTotales { C1TKT, C2TKT, TOTTKT, IMPTKT, TKPROMT }
 
-        enum ImportesSucursalesAcumuladas { ISA1, ISA2, ISA3, ISA4, ISA5, ISA6 };
-        enum TransaccionesTotalesAcumuladas { TA1, TA2, TA3, TA4, TA5, TA6 };
-        enum TransaccionesPromedioAcumuladas { TPA1, TPA2, TPA3, TPA4, TPA5, TPA6 };
+        enum ImportesSucursalesAcumuladas { ISA1, ISA2, ISA3, ISA4, ISA5, ISA6, ISA7 };
+        enum TransaccionesTotalesAcumuladas { TA1, TA2, TA3, TA4, TA5, TA6, TA7 };
+        enum TransaccionesPromedioAcumuladas { TPA1, TPA2, TPA3, TPA4, TPA5, TPA6, TPA7 };
         enum TransaccionesTurnoYCajaTotalesAcumuladas { TT11A, TT12A, TT21A, TT22A, TT31A, TT32A };
 
         enum Productos
@@ -288,6 +292,13 @@ namespace EnviarVentasDiariasGasolinerasYPoint
                         case "POINT LAS  ETNIAS":
                             LstVtasDia = microsipVentaDia.
                                 ObtVtasDiaV2ETN(FechaIni, FechaFin);
+                            break;
+
+                        case "POINT SAN JOSE DE VIÑEDO":
+                            //LstVtasDia = microsipVentaDia.
+                            //    ObtVtasDiaV2SJV(FechaIni, FechaFin);
+
+                            LstVtasDia = new List<DatosVtasDiaV2>();
                             break;
                     }
                 }
@@ -1522,7 +1533,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint
 
             Func<bool, DateTime> InicioMesODiaAnteriorF = r => r? DiaAntes : InicioMes;
 
-            List<FormsCostoVentas.Clases.DatosGasolinera> LstGasolineras = costoVentas.ObtDatosGasolineras(false);
+            List<FormsCostoVentas.Clases.DatosGasolinera> LstGasolineras = 
+                costoVentas.ObtDatosGasolineras(false).OrderBy(r => r.Nombre).ToList();
 
             bool Entre = false;
 
@@ -1651,23 +1663,30 @@ namespace EnviarVentasDiariasGasolinerasYPoint
                             break;
 
                         case 1:
-                            LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenMIE();
-                            break;
-
-                        case 2:
-                            LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenMTR();
-                            break;
-
-                        case 3:
-                            LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenSTF();
-                            break;
-
-                        case 4:
                             LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenAMD();
                             break;
 
-                        case 5:
+                        case 2:
                             LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenETN();
+                            break;
+
+                        case 3:
+                            LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenMIE();
+                            break;
+
+                        case 4:
+                            LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenMTR();
+                            break;
+
+                        case 5:
+                            LstAlmacenes = microsipVentaDia.ObtMicrosipAlmacenSTF();
+                            break;
+
+                        case 6:
+                            LstAlmacenes = new List<DatosAlmacenes>() { new DatosAlmacenes {
+                                ALMACEN_ID = 19,
+                                NOMBRE = "POINT SAN JOSE DE VIÑEDO"
+                            } };
                             break;
                     }
                 }
@@ -1744,6 +1763,13 @@ namespace EnviarVentasDiariasGasolinerasYPoint
                             LstVtasDia = microsipVentaDia.
                                 ObtFbETNVtasDia(InicioMesODiaAnterior(DiarioOAcumulado), Fecha, "S", true,
                                     almacen.ALMACEN_ID);
+                            break;
+
+                        case "POINT SAN JOSE DE VIÑEDO":
+                            //LstVtasDia = microsipVentaDia.
+                            //    ObtVtasDiaV2SJV(FechaIni, FechaFin);
+
+                            LstVtasDia = new List<DatosVtaDia>();
                             break;
                     }
                 }
@@ -2253,6 +2279,9 @@ namespace EnviarVentasDiariasGasolinerasYPoint
             List<string> TransaccionesReng6 = Enum.GetNames(typeof(TransaccionesPorTurnoYCajaReng6)).ToList()
                                             .Select(r => "{" + r + "}").ToList();
 
+            List<string> TransaccionesReng7 = Enum.GetNames(typeof(TransaccionesPorTurnoYCajaReng7)).ToList()
+                                .Select(r => "{" + r + "}").ToList();
+
             switch (ii)
             {
                 case 0:
@@ -2267,6 +2296,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint
                     return TransaccionesReng5;
                 case 5:
                     return TransaccionesReng6;
+                case 6:
+                    return TransaccionesReng7;
             }
 
             return new List<string>();
@@ -2290,6 +2321,9 @@ namespace EnviarVentasDiariasGasolinerasYPoint
             List<string> TransaccionesReng6 = Enum.GetNames(typeof(NoTicketsReng6)).ToList()
                                             .Select(r => "{" + r + "}").ToList();
 
+            List<string> TransaccionesReng7 = Enum.GetNames(typeof(NoTicketsReng6)).ToList()
+                                            .Select(r => "{" + r + "}").ToList();
+
             switch (ii)
             {
                 case 0:
@@ -2303,6 +2337,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint
                 case 4:
                     return TransaccionesReng5;
                 case 5:
+                    return TransaccionesReng6;
+                case 6:
                     return TransaccionesReng6;
             }
 
@@ -2326,6 +2362,9 @@ namespace EnviarVentasDiariasGasolinerasYPoint
             List<string> TransaccionesReng6 = Enum.GetNames(typeof(TransaccionesPorTurnoYCajaRengAcum6)).ToList()
                                             .Select(r => "{" + r + "}").ToList();
 
+            List<string> TransaccionesReng7 = Enum.GetNames(typeof(TransaccionesPorTurnoYCajaRengAcum7)).ToList()
+                                            .Select(r => "{" + r + "}").ToList();
+
             switch (ii)
             {
                 case 0:
@@ -2340,6 +2379,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint
                     return TransaccionesReng5;
                 case 5:
                     return TransaccionesReng6;
+                case 6:
+                    return TransaccionesReng7;
             }
 
             return new List<string>();
@@ -2779,6 +2820,9 @@ namespace EnviarVentasDiariasGasolinerasYPoint
                                             .Select(r => "{" + r + "}").ToList());
 
             TurnosCajaHoraReng.Add(Enum.GetNames(typeof(TurnosCajaHoraR6)).ToList()
+                                            .Select(r => "{" + r + "}").ToList());
+
+            TurnosCajaHoraReng.Add(Enum.GetNames(typeof(TurnosCajaHoraR7)).ToList()
                                             .Select(r => "{" + r + "}").ToList());
 
             int ii = 0;

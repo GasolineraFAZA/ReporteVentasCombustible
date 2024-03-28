@@ -44,3 +44,86 @@ Select Cod As Codigo, LTRIM(RTRIM(Abr)) As Nombre
 			)
 
 5) Volver a enviar el correo
+
+Procedimiento para agregar estación
+
+1) Modificar la "PlantillaTablaCorreo.aspx", hay que agregar los renglones para la estación nueva. En el ejemplo de parte del código de esta plantilla
+las XX representan el renglón que se agregó. Hacer esto para la sección de "Ventas del Día, Litros", "Ventas Acumuladas Mensuales, Litros", 
+"Ventas del Día, Importe", "Ventas Acumuladas, Importe"
+
+Ventas del Día
+Litros
+
+	<tr>
+		<td width="25%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E17}</td>
+		<td width="15%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ULA17}</td>
+		<td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CLA17}</td>
+		<td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ELA17}</td>
+		<td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ILA17}</td>
+	</tr>
+	<tr>																																									XX
+		<td width="25%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E18}</td>		   XX
+		<td width="15%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ULA18}</td>
+		<td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CLA18}</td>
+		<td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ELA18}</td>
+		<td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ILA18}</td>
+	</tr>
+
+Ventas Acumuladas Mensuales
+Litros
+
+    <tr>
+        <td width="25%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E17}</td>
+        <td width="15%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{UD17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CD17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ED17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ID17}</td>
+    </tr>
+    <tr>																																									XX
+        <td width="25%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E18}</td>		  XX
+        <td width="15%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{UD18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CD18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ED18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ID18}</td>
+    </tr>
+
+
+Ventas del Día
+Litros
+
+    <tr>
+        <td width="25%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E17}</td>
+        <td width="15%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{UD17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CD17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ED17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ID17}</td>
+    </tr>
+    <tr>																																									XX
+        <td width="25%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E18}</td>		  XX
+        <td width="15%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{UD18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CD18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ED18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{ID18}</td>
+    </tr>
+
+
+Ventas Acumuladas Mensuales
+Litros
+
+    <tr>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{UDA17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CDA17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{EDA17}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{IDA17}</td>
+    </tr>
+    <tr>																																									XX					
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;">{E18}</td>		   XX				
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{UDA18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{CDA18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{EDA18}</td>
+        <td width="20%" style="padding:0;Margin:0;line-height:140%;mso-line-height-rule:exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif;text-align:right;">{IDA18}</td>
+    </tr>
+
+2) Cambiar en la clase Constantes.cs, la variable CantEstaciones,
+3) Cambiar el comando sql de CostoVentas, ObtDatosGasolineras, para que acepte las estaciones involucradas

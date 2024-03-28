@@ -10,8 +10,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
     public static class Constantes
     {
         public const int DiasAnteriores = -1;
-        public const int CantSucursales = 6;
-        public const int CantEstaciones = 17;
+        public const int CantSucursales = 7;
+        public const int CantEstaciones = 20;
 
         public const bool PagoEnEfectivo = true;
         public const bool PagoEnCredito = true;
@@ -42,6 +42,7 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
             public static string Crit = "crit";
             public static string Triangulo = "triangulo";
             public static string Independencia = "indepen";
+            public static string Abastos = "Abastos";
 
             public static string PuenteCent = "puente";
 
@@ -65,7 +66,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
                 Triangulo,
                 Independencia,
 
-                PuenteCent
+                PuenteCent,
+                Abastos
             };
         }
 
@@ -90,6 +92,7 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
             public static string Independencia = "IND";
 
             public static string PuenteCent = "PCE";
+            public static string Abastos = "ABS";
 
             public static readonly string[] Estaciones =
             {
@@ -111,7 +114,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
                 Triangulo,
                 Independencia,
 
-                PuenteCent
+                PuenteCent,
+                Abastos
             };
         }
 
@@ -136,6 +140,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
             public static Color LimeGreen = Color.LimeGreen;
 
             public static Color Maroon = Color.Maroon;
+            public static Color Yellow = Color.Yellow;
+            public static Color Turquoise = Color.Turquoise;
 
             public static readonly Color[] Colores =
             {
@@ -157,7 +163,9 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
                 Gray,
                 LimeGreen,
 
-                Maroon
+                Maroon,
+                Yellow,
+                Turquoise
             };
         }
 
@@ -248,22 +256,23 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
 
             public static readonly string[] CorreosConTodaLaInformacionTo = 
             {
-                "55sdnzobWVoYyr3QJHZm4NfzERt+/llTYRJNwnNVv28=",           //Se debe mandar a los 4 primeros
+                "55sdnzobWVoYyr3QJHZm4NfzERt+/llTYRJNwnNVv28=",       //Se debe mandar a los 5 primeros
                 "CO1R7KrKv9+4YGcRhL5niOllu8/d7HS4Gijn0TER7as=",
                 "+F9xYm1knWTsZ5X/Gm21uGpLdv9oOBiuPWpottrklEA=",
                 "RT3T9D1QE9ZwCjd1gz2jezbdYjnP0kj7U3kVBjdtQLsOHkCU1YQSwQH0UbajapHZ",
+                "WTR9lK7Hc3yUYtEgEum3WBCBlKVg8ZpC6OEx0gg+JK4=",         // Erik
 
-                "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",           //jose
-                "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",           //Miguel
-                "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",           //Iván
-                //"JbOnWg/pqkyrUPVp5uRahVc3UH0Dq+hy28T5/nUD208="          //reyes_campos@hotmail.com
+                "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",         // José
+                "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",         // Miguel
+                "JbOnWg/pqkyrUPVp5uRahVc3UH0Dq+hy28T5/nUD208="          //reyes_campos@hotmail.com
 
             };
 
             public static readonly string[] CorreosConTodaLaInformacionBcc =
             {
                 "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",           //jose.campos@faza.com.mx
-                "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",           //Miguel.flores@faza.com.mx
+                //"W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",           //Miguel.flores@faza.com.mx
+                "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",           //Iván
             };
         }
 
@@ -287,7 +296,8 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
             public static readonly string[] CorreosConSoloEstacionesBcc =
             {
                 "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",          //jose.campos@faza.com.mx
-                "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",           //Miguel.flores@faza.com.mx
+                //"W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",           //Miguel.flores@faza.com.mx
+                "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",           //Iván
             };
         }
 
@@ -297,20 +307,23 @@ namespace EnviarVentasDiariasGasolinerasYPoint.Clases
                 System.AppDomain.CurrentDomain.BaseDirectory + "\\Plantilla\\PlantillaTablaSoloSucursales.html";
 
             public static readonly string[] CorreosConSoloSucursalesTo =
-            {                                                                               //Se debe mandar solo a los 2 primeros
-                "MSI8E0iLiWIFJ4Jz+AHtQjnFj3J23x73L7Gjl6o98v0=",                             //Correo jefe comercial
-                "mie96bBhyMMQjQfD+pnfpXgGg5wrzOXCU917NurZbLM=",                             //Correo garza
+            {
+                //Se debe mandar solo a los 3 primeros
+                "MSI8E0iLiWIFJ4Jz+AHtQjnFj3J23x73L7Gjl6o98v0=",                             //Correo jefe comercial1
+                "6Rs6vIYtW349PIX5/46gxCqB4mQpHaM12Bqi1Gn6OYQ=",                             //Correo jefe comercial2
+                "mie96bBhyMMQjQfD+pnfpXgGg5wrzOXCU917NurZbLM=",                           //Correo garza
 
                 "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",                             //jose.campos@faza.com.mx
                 "W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",                             //Miguel.flores@faza.com.mx
                 "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",                             //Iván
-                //"JbOnWg/pqkyrUPVp5uRahVc3UH0Dq+hy28T5/nUD208="                            //reyes_campos@hotmail.com
+                "JbOnWg/pqkyrUPVp5uRahVc3UH0Dq+hy28T5/nUD208="                            //reyes_campos@hotmail.com
             };
 
             public static readonly string[] CorreosConSoloSucursalesBcc =
             {
-                "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",      //jose.campos@faza.com.mx
-                //"VbY4tg/OFb+MNpfjUwifADHB7angzrDEi8TDzgOzR8g=",    //Jefe de Sistemas
+                "uOzNxS19nr5pZ3/xle9LQo2AybS9C5xQAe8mY7gsPJc=",    //jose.campos@faza.com.mx
+                //"W7hPHv9jE7rDOI8Vnjh5z94J+BUcYcXYZjLhngy+WbQ=",  //Miguel.flores@faza.com.mx
+                "ZPOfMabfEM64FPG7mXfJ7BxO+5sRc5cjnhEHS13eVE8=",    //Iván
             };
         }
 
