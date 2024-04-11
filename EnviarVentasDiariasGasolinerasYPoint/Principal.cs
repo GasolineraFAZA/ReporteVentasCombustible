@@ -1002,7 +1002,7 @@ namespace EnviarVentasDiariasGasolinerasYPoint
 
             return LstAgregDespachosFormPago;
         }
-       
+
         private void CargarInfoCG(bool VtasEfectivo, bool VtasCredito, bool VtasEfectYCred)
         {
             Despachos despacho = new Despachos();
@@ -2026,7 +2026,6 @@ namespace EnviarVentasDiariasGasolinerasYPoint
         private void ReemplazarVariablesEnCuerpoMailEstacion()
         {
             ExcepcionNombreEstacion(ref LstCuerpoMailEstacion, new List<string> { "CRIT" });
-
             List<string> Estaciones = new EstacionesYVariablesHTML().GenerarVariableHTML("E", Constantes.EstacOSucur.Estacion);
             List<string> UnidadesLitros = new EstacionesYVariablesHTML().GenerarVariableHTML("UL", Constantes.EstacOSucur.Estacion);
             List<string> LitrosCredito = new EstacionesYVariablesHTML().GenerarVariableHTML("CL", Constantes.EstacOSucur.Estacion);

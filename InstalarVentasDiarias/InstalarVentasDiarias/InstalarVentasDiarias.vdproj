@@ -15,37 +15,79 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_016B468D56444601BD75D1E6B67E2B5A"
+        "MsmKey" = "8:_005E1BA8B7674C76BAA7A44542F2C5EE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_0463EDEC70084E7485409769F10BADE7"
+        "MsmKey" = "8:_00E41E8869254BD09B74F7BE37A74578"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_022C69B855C84F5E9395367D2C932CE0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_05FA466AB4BDC6460A5F3B8622795BBF"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_11311F4BAC284795B1FAD7225BD9985D"
+        "MsmKey" = "8:_0975223E1DD24381B055A681598991D1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0A81A882E76B4774A3332DB0353A35BC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0B98FBB5912F459999F2C310E91E8D7C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0BF86678154145838929EAE8EA65E442"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0D30D1796324486483B17F367382AEEF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_13EFF90A528A56A35D34E590CC36E0E5"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_15285D1283794D138E638E470A53E099"
+        "MsmKey" = "8:_152F87B6A3BF490781106943D9C6D432"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_16BD80196B7948BBA32E86BB9A026F05"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_17D73B261EB04AA68B9382FC0EA3A08B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -57,25 +99,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_193890543B2E4865A01622CCDE0F5DDA"
+        "MsmKey" = "8:_1EA8ADE42E1744E9A5741C390D96EF8F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_19B6D574ADA643A98FF9B25ECFEDB3C4"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1B93519ED7D74AF5A29B378AFB05D8AD"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1CC25B38E511417E8530580AA0B530A7"
+        "MsmKey" = "8:_20CA1A404F87439ABE7D3931353E7EE6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -87,13 +117,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_20E49E031A904BA6B94415DC75A3E68B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_243859147D634425A1BB01E1C38B6E9D"
+        "MsmKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -106,7 +130,7 @@
         "Entry"
         {
         "MsmKey" = "8:_27C3CE8A2403E2ACE52C4F0CAD377499"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -117,37 +141,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_2F3E950F1303489A9EDA9D6F2715AC7E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2FB629311DEB4FAEA12F58D895580E6F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_308823640AEF4B1A84917E08812C2521"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_36A56493EAAA47DB8ADA8C7A03452E47"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_37BEDF390AF049D58D18EEA98AB1C080"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_37FD71E468974D88A1796ED9D36632CC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -159,8 +153,20 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_39F3E2AE737642B0B2BBE51B12A33A3E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3B16D07F9BD44BD4AA8064D61850C4C2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3B2601FB77547BC0904DC026C1BB80A8"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -171,73 +177,67 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_3DB45636F13C45E49EBA535D76A8B1BB"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3E47634221B34E28A460CFB7F92558D2"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3E5D62C5C5854CB3890D2D40F3B59E15"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_40C232E3B04A4504BDDD785ECA8CBC69"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_4272F4636B2E48DFB69228EA9C095DE3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_45ECA05ED8E642C3B58D4B92605393F2"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_48E6B9A590E0A5A0551668B11F35D18B"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_495EE3A23B5128AC5472F4AE7A753341"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_49E39F1BF8C3624A504E04033597C317"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4A3D3FBB37424EC596475C6D9F329B44"
+        "MsmKey" = "8:_4AFDEBA745D947B9BBFBFA38B720FB90"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "MsmKey" = "8:_4B8FA430DA2A4C50B1F2D9C56CAB9501"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_57D1A4F78D384C439ADCEEA489F05CEA"
+        "MsmKey" = "8:_4E27A99735234EFDBDEDFEB23620D044"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_51102E65490A42F297C8F2D22DD08E49"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5200D93C370C4833BF1B8DC3D43499EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5976ADF99C30459A95DC82F4A5EB418F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5BDBE52CB5AF4391B8FAD8D159933076"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -249,7 +249,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5F145839B3FE49C183898172E9A8524E"
+        "MsmKey" = "8:_5FA6EEF3D94C4813938F44FA31B5C079"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -261,19 +261,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_600A83C58F1549A5914B6B5022A3894A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_61111519D75E4941881E9F91C5626E57"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_62D4C0C26E2F4B1CA048F95A3723B214"
+        "MsmKey" = "8:_60876EE3CA364DC39C3B162266BD3256"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -285,61 +273,37 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_67506C28996E41B98F2FD0FF74D9796D"
+        "MsmKey" = "8:_683EC946683149FABF7B3258FE208376"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6843B8B2EBAE4D589CA8A26010175E14"
+        "MsmKey" = "8:_6AF63F25082E45678D8FC478F6CD419A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_68491FF8814C48B29CA5532A2B57B8C6"
+        "MsmKey" = "8:_6DD630E78FF245B6A2F9E62041136FB6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6945138703D142A3B5EC90174180D55A"
+        "MsmKey" = "8:_6ED11C51124A4F5C9945F1DCB4763C83"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6CF986944C984ABF8EC03035C721EC32"
+        "MsmKey" = "8:_747E1652A5BF4E14AE081C1654B91EDB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6F487EA587D74C9A98A53E0793EC80BF"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7055ABD1F40845CB89E7787B992B26A9"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_72562A4FD99742D091B76DE126883100"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7512F3AEEE7F4AFD81A9E9FC41E2506A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7683A9619EBA4F0CB6191B93250E5301"
+        "MsmKey" = "8:_7734A569F1534876A5FECCC1D85FA7DB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -352,18 +316,48 @@
         "Entry"
         {
         "MsmKey" = "8:_776E8912A38068C4FB00221511EE8641"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8A54CB48E0AF4625B856A4F4B63D0388"
+        "MsmKey" = "8:_79552F0EA62A4EE1B2AE34EBA4788889"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8A81C57649F24F10A7A8199750371BF5"
+        "MsmKey" = "8:_855D4E7E4E9C4E62BDB88FDE7FC180C5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_85BBEF3341714436BFFA949275BF5EB5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8980BF39C5B54693ADDA834EFA9547DA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_89D2A6A64F4B44E7B358333238DE4B02"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8A3AFF9FCE76424EBC012ACBF0E5D6ED"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8B56130606E84347B33729D2BA7AF20F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -375,32 +369,20 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8DA9445667E242518D6EA450CECBC29E"
+        "MsmKey" = "8:_9033CBC1804546E7B010BDF2FBAC6004"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_90013410D4AD4DCF8AE8F59A63AEFD6B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9019C9E34D934DB48931FC12156C82A9"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9165078D80D349CD8FE7637F92A475AD"
+        "MsmKey" = "8:_908AE80209FA410797C2639648A1CCF8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_91EEB71E788200C01A934A47C23030A8"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -429,7 +411,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_955448C170EE4AA8B3F4BCA16954C1E7"
+        "MsmKey" = "8:_96327032C31F492DB0D2F8895007C99A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_979095653E144BE0AC42F6A8E3FE6854"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -442,19 +430,7 @@
         "Entry"
         {
         "MsmKey" = "8:_98A70B76DC8561E81E4F3223CE45537F"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_99E676E04B4244B99B63BD03AB78C651"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9DC3DFE4EE724A7AACD44121B6BB4DD8"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -465,43 +441,37 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A55099FD8BF54BB6BCE72374E80D339F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A5AE2CFB1249405AA5D01DE75B006BF4"
+        "MsmKey" = "8:_A3E90BA17A9A40838EDDDE62D06026C2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_A76ED3DA9EDACDB7E3EA1DC04304A311"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_AAEDBFC118FF404D8B7ACFE7AE2A36B7"
+        "MsmKey" = "8:_AAF6108051024D1684F27F930D8FDFDC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B091B2C9110B4974B7A19B54A2D8C58D"
+        "MsmKey" = "8:_AE944D5FB1734FBA95423CF712D36599"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B0C28D66586C4C318E674A40813C9480"
+        "MsmKey" = "8:_B1422E73557C4D819011D5CE6518EAE3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B538A5D8F12E4A2C92019036EC1838EB"
+        "MsmKey" = "8:_B467F7846D684B94BFBCAE21E9E9100A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -513,13 +483,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C3BB7DF1AC7948DBA5BD43FBA9AA66FC"
+        "MsmKey" = "8:_BD87832312CC4FB587CDC547F6941E3D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_C54EF9E3D885443BA24BBB2BEFC74AFF"
+        "MsmKey" = "8:_C3540525AD2246BA82074D46FFDB409C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -531,7 +501,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_CCD0725283684C278B3D6728FD96B89F"
+        "MsmKey" = "8:_CCC2ACA60E80402E9D1FCBA97110B820"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -543,31 +513,61 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_D28ED0173AE14E039B8DB0B72FCF0860"
+        "MsmKey" = "8:_D1D79EC28995407FB4632A4A7C67788D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DEA0E30FB3E84B9084BCD025C97471AA"
+        "MsmKey" = "8:_D46E1E971286483693EAF8D5EC5367C9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E0315AEFAFE441CFB4BE8B2C77D6126D"
+        "MsmKey" = "8:_D5AC484ABA8A4BD48A93EE721BD42635"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D6619B98F7524997A50AEA28233D5312"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D942CC28D96A425DA647F9C34B6DBB18"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DB7935ACF89149AA9F26BFD40A607809"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCDCF58E0D554761936B233F3F886A5E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DD2E3BF51A82477DBF37C4EA55349FAE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_E03565BF42B3781235638D7A020F1EF6"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E11CD97B5BFD46C4979DA92BB1A1CA3D"
+        "MsmKey" = "8:_E2F79F0B1DDE4247A87DC365E70FC790"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -580,7 +580,7 @@
         "Entry"
         {
         "MsmKey" = "8:_E3D7053B45A7007A7C5B87FE854DE28B"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -603,19 +603,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EFA92A55939B499AA1A94A0F44FA76ED"
+        "MsmKey" = "8:_E46F8E98E5B946F9A79337CD6451C0C4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_EFA9B43091F54EC7B19FD95B22274AE2"
+        "MsmKey" = "8:_E6219BDB0D1F43CDB6FAD95F3D7BA1D1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F10495787ED1429DBF1BD475E6B541B1"
+        "MsmKey" = "8:_E949ECBF94C049519697A3ABCADBF35C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -628,18 +628,24 @@
         "Entry"
         {
         "MsmKey" = "8:_F3BF8857D1EBC77263EB1E0A1D400BFD"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_FC282D890F4146248ACA1A4B3B31DA23"
+        "MsmKey" = "8:_F3C152D08A88489F814E9C10208D448A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_FF6E6DE9C64A490B9C51EBB494696DA5"
+        "MsmKey" = "8:_F61865961A764BBEAE7F5E49839713F3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F87B5733835943EBB1CDB5E01BFC1DF8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -652,7 +658,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4A6C22DDD53C4D26B48CC81175E38E35"
+        "OwnerKey" = "8:_215F5F7276214259B2FEED70D518EA73"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -828,10 +834,10 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_016B468D56444601BD75D1E6B67E2B5A"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_005E1BA8B7674C76BAA7A44542F2C5EE"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtAlmacen.sql"
-            "TargetName" = "8:CmdFbAMDObtAlmacen.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaTriangulo.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaTriangulo.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -848,10 +854,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0463EDEC70084E7485409769F10BADE7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_00E41E8869254BD09B74F7BE37A74578"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\Plantilla\\PlantillaTablaSoloSucursales.html"
-            "TargetName" = "8:PlantillaTablaSoloSucursales.html"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtAlmacen.sql"
+            "TargetName" = "8:CmdFbSTFObtAlmacen.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_022C69B855C84F5E9395367D2C932CE0"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Plantilla\\PlantillaRenglonPedidoSTF.html"
+            "TargetName" = "8:PlantillaRenglonPedidoSTF.html"
             "Tag" = "8:"
             "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
             "Condition" = "8:"
@@ -899,10 +925,90 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_11311F4BAC284795B1FAD7225BD9985D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0975223E1DD24381B055A681598991D1"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtVtasDiaV2.sql"
-            "TargetName" = "8:CmdFbETNObtVtasDiaV2.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Plantilla\\PlantillaRenglonPedidoCNT.html"
+            "TargetName" = "8:PlantillaRenglonPedidoCNT.html"
+            "Tag" = "8:"
+            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0A81A882E76B4774A3332DB0353A35BC"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtVtasDia.sql"
+            "TargetName" = "8:CmdFbCNTObtVtasDia.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0B98FBB5912F459999F2C310E91E8D7C"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbVerDoctoPvId.sql"
+            "TargetName" = "8:CmdFbVerDoctoPvId.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0BF86678154145838929EAE8EA65E442"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtVtasDiaV2.sql"
+            "TargetName" = "8:CmdFbMIEObtVtasDiaV2.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0D30D1796324486483B17F367382AEEF"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaSanJoaquin.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaSanJoaquin.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -950,10 +1056,50 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_15285D1283794D138E638E470A53E099"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_152F87B6A3BF490781106943D9C6D432"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosEfectivo.sql"
-            "TargetName" = "8:CmdSQLDespachosEfectivo.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtVtasDia.sql"
+            "TargetName" = "8:CmdFbMTRObtVtasDia.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_16BD80196B7948BBA32E86BB9A026F05"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaUrquizo.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaUrquizo.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_17D73B261EB04AA68B9382FC0EA3A08B"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosCreditoMontoYLitros.sql"
+            "TargetName" = "8:CmdSQLDespachosCreditoMontoYLitros.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -990,10 +1136,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_193890543B2E4865A01622CCDE0F5DDA"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1EA8ADE42E1744E9A5741C390D96EF8F"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtVtasDiaV2.sql"
-            "TargetName" = "8:CmdFbAMDObtVtasDiaV2.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDVerExistPorArt.sql"
+            "TargetName" = "8:CmdFbAMDVerExistPorArt.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1010,50 +1156,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_19B6D574ADA643A98FF9B25ECFEDB3C4"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_20CA1A404F87439ABE7D3931353E7EE6"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosDebito.sql"
-            "TargetName" = "8:CmdSQLDespachosDebito.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B93519ED7D74AF5A29B378AFB05D8AD"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaCuenca2.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaCuenca2.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1CC25B38E511417E8530580AA0B530A7"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosContadoSoloMontoYLitros.sql"
-            "TargetName" = "8:CmdSQLDespachosContadoSoloMontoYLitros.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtPrimerHoraTurno.sql"
+            "TargetName" = "8:CmdFbAMDObtPrimerHoraTurno.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1076,46 +1182,6 @@
             "TargetName" = "8:carrito.png"
             "Tag" = "8:"
             "Folder" = "8:_8953E6E9D43A4452ADEC6369EA22A52C"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_20E49E031A904BA6B94415DC75A3E68B"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtPrimerHoraTurno.sql"
-            "TargetName" = "8:CmdFbETNObtPrimerHoraTurno.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_243859147D634425A1BB01E1C38B6E9D"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLCtrlVehicDespach.sql"
-            "TargetName" = "8:CmdSQLCtrlVehicDespach.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1161,46 +1227,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2F3E950F1303489A9EDA9D6F2715AC7E"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaSanJoaquin.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaSanJoaquin.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2FB629311DEB4FAEA12F58D895580E6F"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDVtaPorClasifDeArt.sql"
-            "TargetName" = "8:CmdFbAMDVtaPorClasifDeArt.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_308823640AEF4B1A84917E08812C2521"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Imagenes\\GraficaVtaCreditoPorEstacion2.jpg"
@@ -1221,72 +1247,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_36A56493EAAA47DB8ADA8C7A03452E47"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtAlmacen.sql"
-            "TargetName" = "8:CmdFbSTFObtAlmacen.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_37BEDF390AF049D58D18EEA98AB1C080"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\Plantilla\\PlantillaRenglonPedidoSTF.html"
-            "TargetName" = "8:PlantillaRenglonPedidoSTF.html"
-            "Tag" = "8:"
-            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_37FD71E468974D88A1796ED9D36632CC"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaSantaFe.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaSantaFe.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3892E9CB73C541CD91165F71085C414E"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Imagenes\\GraficaVtaEfectivoPorProducto.jpg"
             "TargetName" = "8:GraficaVtaEfectivoPorProducto.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8953E6E9D43A4452ADEC6369EA22A52C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_39F3E2AE737642B0B2BBE51B12A33A3E"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaBravo.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaBravo.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B16D07F9BD44BD4AA8064D61850C4C2"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLCtrlVehicDespach.sql"
+            "TargetName" = "8:CmdSQLCtrlVehicDespach.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1332,112 +1338,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3DB45636F13C45E49EBA535D76A8B1BB"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaCuenca1.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaCuenca1.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3E47634221B34E28A460CFB7F92558D2"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaBravo.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaBravo.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3E5D62C5C5854CB3890D2D40F3B59E15"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtVtasDia.sql"
-            "TargetName" = "8:CmdFbMTRObtVtasDia.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_40C232E3B04A4504BDDD785ECA8CBC69"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtAlmacen.sql"
-            "TargetName" = "8:CmdFbMIEObtAlmacen.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4272F4636B2E48DFB69228EA9C095DE3"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Imagenes\\GraficaVtaEfectivoPorEstacion2.jpg"
             "TargetName" = "8:GraficaVtaEfectivoPorEstacion2.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8953E6E9D43A4452ADEC6369EA22A52C"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45ECA05ED8E642C3B58D4B92605393F2"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaFiladelfia.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaFiladelfia.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1545,7 +1451,67 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4A3D3FBB37424EC596475C6D9F329B44"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4AFDEBA745D947B9BBFBFA38B720FB90"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNVtasXFecha.sql"
+            "TargetName" = "8:CmdFbETNVtasXFecha.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4B8FA430DA2A4C50B1F2D9C56CAB9501"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosDebitoMontoYLitros.sql"
+            "TargetName" = "8:CmdSQLDespachosDebitoMontoYLitros.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4E27A99735234EFDBDEDFEB23620D044"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaMieleras.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaMieleras.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51102E65490A42F297C8F2D22DD08E49"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLVerDespachadorSegNumDespacho.sql"
             "TargetName" = "8:CmdSQLVerDespachadorSegNumDespacho.sql"
@@ -1565,10 +1531,50 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_57D1A4F78D384C439ADCEEA489F05CEA"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5200D93C370C4833BF1B8DC3D43499EF"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosDebitoMontoYLitros.sql"
-            "TargetName" = "8:CmdSQLDespachosDebitoMontoYLitros.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosContado.sql"
+            "TargetName" = "8:CmdSQLDespachosContado.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5976ADF99C30459A95DC82F4A5EB418F"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaCuenca2.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaCuenca2.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5BDBE52CB5AF4391B8FAD8D159933076"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtAlmacen.sql"
+            "TargetName" = "8:CmdFbCNTObtAlmacen.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1605,10 +1611,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5F145839B3FE49C183898172E9A8524E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5FA6EEF3D94C4813938F44FA31B5C079"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtPrimerHoraTurno.sql"
-            "TargetName" = "8:CmdFbMIEObtPrimerHoraTurno.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDia6DeEnero.sql"
+            "TargetName" = "8:CmdObtVentasDelDia6DeEnero.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1645,50 +1651,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_600A83C58F1549A5914B6B5022A3894A"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_60876EE3CA364DC39C3B162266BD3256"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\Plantilla\\PlantillaRenglonPedidoCNT.html"
-            "TargetName" = "8:PlantillaRenglonPedidoCNT.html"
-            "Tag" = "8:"
-            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_61111519D75E4941881E9F91C5626E57"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtPrimerHoraTurno.sql"
-            "TargetName" = "8:CmdFbSTFObtPrimerHoraTurno.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_62D4C0C26E2F4B1CA048F95A3723B214"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosCreditoMontoYLitros.sql"
-            "TargetName" = "8:CmdSQLDespachosCreditoMontoYLitros.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaAzulejos.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaAzulejos.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1725,10 +1691,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_67506C28996E41B98F2FD0FF74D9796D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_683EC946683149FABF7B3258FE208376"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtAlmacen.sql"
-            "TargetName" = "8:CmdFbCNTObtAlmacen.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaCrit.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaCrit.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1745,127 +1711,7 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6843B8B2EBAE4D589CA8A26010175E14"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtPrimerHoraTurno.sql"
-            "TargetName" = "8:CmdFbCNTObtPrimerHoraTurno.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_68491FF8814C48B29CA5532A2B57B8C6"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\Plantilla\\PlantillaRenglonPedidoMTR.html"
-            "TargetName" = "8:PlantillaRenglonPedidoMTR.html"
-            "Tag" = "8:"
-            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6945138703D142A3B5EC90174180D55A"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaSantaRita.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaSantaRita.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6CF986944C984ABF8EC03035C721EC32"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtVtasDia.sql"
-            "TargetName" = "8:CmdFbSTFObtVtasDia.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6F487EA587D74C9A98A53E0793EC80BF"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\Plantilla\\PlantillaTablaCorreo.html"
-            "TargetName" = "8:PlantillaTablaCorreo.html"
-            "Tag" = "8:"
-            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7055ABD1F40845CB89E7787B992B26A9"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtVtasDia.sql"
-            "TargetName" = "8:CmdFbAMDObtVtasDia.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_72562A4FD99742D091B76DE126883100"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6AF63F25082E45678D8FC478F6CD419A"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentaDelDia.sql"
             "TargetName" = "8:CmdObtVentaDelDia.sql"
@@ -1885,10 +1731,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7512F3AEEE7F4AFD81A9E9FC41E2506A"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6DD630E78FF245B6A2F9E62041136FB6"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\Plantilla\\Prueba.html"
-            "TargetName" = "8:Prueba.html"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Plantilla\\PlantillaTablaSoloSucursales.html"
+            "TargetName" = "8:PlantillaTablaSoloSucursales.html"
             "Tag" = "8:"
             "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
             "Condition" = "8:"
@@ -1905,10 +1751,50 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7683A9619EBA4F0CB6191B93250E5301"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6ED11C51124A4F5C9945F1DCB4763C83"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaUrquizo.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaUrquizo.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtVtasDiaV2.sql"
+            "TargetName" = "8:CmdFbSTFObtVtasDiaV2.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_747E1652A5BF4E14AE081C1654B91EDB"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtVtasDiaV2.sql"
+            "TargetName" = "8:CmdFbAMDObtVtasDiaV2.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7734A569F1534876A5FECCC1D85FA7DB"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaParqueInd.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaParqueInd.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1956,10 +1842,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8A54CB48E0AF4625B856A4F4B63D0388"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_79552F0EA62A4EE1B2AE34EBA4788889"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosCredito.sql"
-            "TargetName" = "8:CmdSQLDespachosCredito.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtVtasDiaV2.sql"
+            "TargetName" = "8:CmdFbCNTObtVtasDiaV2.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -1976,10 +1862,110 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8A81C57649F24F10A7A8199750371BF5"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_855D4E7E4E9C4E62BDB88FDE7FC180C5"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLObtGasolineras.sql"
-            "TargetName" = "8:CmdSQLObtGasolineras.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosFormPago.sql"
+            "TargetName" = "8:CmdSQLDespachosFormPago.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_85BBEF3341714436BFFA949275BF5EB5"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtVtasDia.sql"
+            "TargetName" = "8:CmdFbETNObtVtasDia.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8980BF39C5B54693ADDA834EFA9547DA"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Plantilla\\Prueba.html"
+            "TargetName" = "8:Prueba.html"
+            "Tag" = "8:"
+            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_89D2A6A64F4B44E7B358333238DE4B02"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Plantilla\\PlantillaTablaCorreo.html"
+            "TargetName" = "8:PlantillaTablaCorreo.html"
+            "Tag" = "8:"
+            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8A3AFF9FCE76424EBC012ACBF0E5D6ED"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtVtasDia.sql"
+            "TargetName" = "8:CmdFbSTFObtVtasDia.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8B56130606E84347B33729D2BA7AF20F"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosContadoSoloMontoYLitros.sql"
+            "TargetName" = "8:CmdSQLDespachosContadoSoloMontoYLitros.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2016,10 +2002,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8DA9445667E242518D6EA450CECBC29E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9033CBC1804546E7B010BDF2FBAC6004"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosFormPago.sql"
-            "TargetName" = "8:CmdSQLDespachosFormPago.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtAlmacen.sql"
+            "TargetName" = "8:CmdFbMIEObtAlmacen.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2036,52 +2022,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_90013410D4AD4DCF8AE8F59A63AEFD6B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_908AE80209FA410797C2639648A1CCF8"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbVerDoctoPvId.sql"
-            "TargetName" = "8:CmdFbVerDoctoPvId.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaSantaRita.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaSantaRita.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9019C9E34D934DB48931FC12156C82A9"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNVtasXFecha.sql"
-            "TargetName" = "8:CmdFbETNVtasXFecha.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9165078D80D349CD8FE7637F92A475AD"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\Plantilla\\PlantillaTablaCorreoGasolinera.html"
-            "TargetName" = "8:PlantillaTablaCorreoGasolinera.html"
-            "Tag" = "8:"
-            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2127,10 +2073,30 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_955448C170EE4AA8B3F4BCA16954C1E7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_96327032C31F492DB0D2F8895007C99A"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtAlmacen.sql"
-            "TargetName" = "8:CmdFbETNObtAlmacen.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSJVObtVtasDiaV2.sql"
+            "TargetName" = "8:CmdFbSJVObtVtasDiaV2.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_979095653E144BE0AC42F6A8E3FE6854"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosDebito.sql"
+            "TargetName" = "8:CmdSQLDespachosDebito.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2178,46 +2144,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_99E676E04B4244B99B63BD03AB78C651"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtVtasDia.sql"
-            "TargetName" = "8:CmdFbETNObtVtasDia.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9DC3DFE4EE724A7AACD44121B6BB4DD8"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosContado.sql"
-            "TargetName" = "8:CmdSQLDespachosContado.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A1688A813F4F43CAB04BBA3CDD1AFCE2"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Imagenes\\carrito.jpg"
@@ -2238,32 +2164,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A55099FD8BF54BB6BCE72374E80D339F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A3E90BA17A9A40838EDDDE62D06026C2"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtAlmacen.sql"
-            "TargetName" = "8:CmdFbMTRObtAlmacen.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Plantilla\\PlantillaRenglonPedidoMTR.html"
+            "TargetName" = "8:PlantillaRenglonPedidoMTR.html"
             "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A5AE2CFB1249405AA5D01DE75B006BF4"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaTriangulo.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaTriangulo.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2309,10 +2215,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AAEDBFC118FF404D8B7ACFE7AE2A36B7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AAF6108051024D1684F27F930D8FDFDC"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtVtasDiaV2.sql"
-            "TargetName" = "8:CmdFbMIEObtVtasDiaV2.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtVtasDia.sql"
+            "TargetName" = "8:CmdFbAMDObtVtasDia.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2329,10 +2235,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B091B2C9110B4974B7A19B54A2D8C58D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AE944D5FB1734FBA95423CF712D36599"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDia6DeEnero.sql"
-            "TargetName" = "8:CmdObtVentasDelDia6DeEnero.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtPrimerHoraTurno.sql"
+            "TargetName" = "8:CmdFbCNTObtPrimerHoraTurno.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2349,10 +2255,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B0C28D66586C4C318E674A40813C9480"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B1422E73557C4D819011D5CE6518EAE3"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaMieleras.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaMieleras.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtAlmacen.sql"
+            "TargetName" = "8:CmdFbAMDObtAlmacen.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2369,10 +2275,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B538A5D8F12E4A2C92019036EC1838EB"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B467F7846D684B94BFBCAE21E9E9100A"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDVerExistPorArt.sql"
-            "TargetName" = "8:CmdFbAMDVerExistPorArt.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosCredito.sql"
+            "TargetName" = "8:CmdSQLDespachosCredito.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2409,10 +2315,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C3BB7DF1AC7948DBA5BD43FBA9AA66FC"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BD87832312CC4FB587CDC547F6941E3D"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtVtasDia.sql"
-            "TargetName" = "8:CmdFbMIEObtVtasDia.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtPrimerHoraTurno.sql"
+            "TargetName" = "8:CmdFbSTFObtPrimerHoraTurno.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2429,10 +2335,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C54EF9E3D885443BA24BBB2BEFC74AFF"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C3540525AD2246BA82074D46FFDB409C"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtVtasDiaV2.sql"
-            "TargetName" = "8:CmdFbMTRObtVtasDiaV2.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtPrimerHoraTurno.sql"
+            "TargetName" = "8:CmdFbMIEObtPrimerHoraTurno.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2469,10 +2375,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CCD0725283684C278B3D6728FD96B89F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CCC2ACA60E80402E9D1FCBA97110B820"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaCrit.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaCrit.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaFiladelfia.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaFiladelfia.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2509,10 +2415,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D28ED0173AE14E039B8DB0B72FCF0860"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D1D79EC28995407FB4632A4A7C67788D"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDObtPrimerHoraTurno.sql"
-            "TargetName" = "8:CmdFbAMDObtPrimerHoraTurno.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtPrimerHoraTurno.sql"
+            "TargetName" = "8:CmdFbETNObtPrimerHoraTurno.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2529,10 +2435,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DEA0E30FB3E84B9084BCD025C97471AA"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D46E1E971286483693EAF8D5EC5367C9"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtVtasDiaV2.sql"
-            "TargetName" = "8:CmdFbCNTObtVtasDiaV2.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosEfectivoMontoYLitros.sql"
+            "TargetName" = "8:CmdSQLDespachosEfectivoMontoYLitros.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2549,10 +2455,110 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E0315AEFAFE441CFB4BE8B2C77D6126D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D5AC484ABA8A4BD48A93EE721BD42635"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbCNTObtVtasDia.sql"
-            "TargetName" = "8:CmdFbCNTObtVtasDia.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtPrimerHoraTurno.sql"
+            "TargetName" = "8:CmdFbMTRObtPrimerHoraTurno.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D6619B98F7524997A50AEA28233D5312"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtVtasDiaV2.sql"
+            "TargetName" = "8:CmdFbMTRObtVtasDiaV2.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D942CC28D96A425DA647F9C34B6DBB18"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtVtasDiaV2.sql"
+            "TargetName" = "8:CmdFbETNObtVtasDiaV2.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DB7935ACF89149AA9F26BFD40A607809"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLObtGasolineras.sql"
+            "TargetName" = "8:CmdSQLObtGasolineras.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DCDCF58E0D554761936B233F3F886A5E"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosEfectivo.sql"
+            "TargetName" = "8:CmdSQLDespachosEfectivo.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DD2E3BF51A82477DBF37C4EA55349FAE"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbAMDVtaPorClasifDeArt.sql"
+            "TargetName" = "8:CmdFbAMDVtaPorClasifDeArt.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2600,10 +2606,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E11CD97B5BFD46C4979DA92BB1A1CA3D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E2F79F0B1DDE4247A87DC365E70FC790"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaAzulejos.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaAzulejos.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtAlmacen.sql"
+            "TargetName" = "8:CmdFbMTRObtAlmacen.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2651,10 +2657,30 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EFA92A55939B499AA1A94A0F44FA76ED"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E46F8E98E5B946F9A79337CD6451C0C4"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbSTFObtVtasDiaV2.sql"
-            "TargetName" = "8:CmdFbSTFObtVtasDiaV2.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\Plantilla\\PlantillaTablaCorreoGasolinera.html"
+            "TargetName" = "8:PlantillaTablaCorreoGasolinera.html"
+            "Tag" = "8:"
+            "Folder" = "8:_0539A0175EFC4EB99ACC1DAB49DEC038"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E6219BDB0D1F43CDB6FAD95F3D7BA1D1"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMIEObtVtasDia.sql"
+            "TargetName" = "8:CmdFbMIEObtVtasDia.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2671,32 +2697,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EFA9B43091F54EC7B19FD95B22274AE2"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E949ECBF94C049519697A3ABCADBF35C"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\XMLs\\Config.xml"
             "TargetName" = "8:Config.xml"
             "Tag" = "8:"
             "Folder" = "8:_B2ED8C1856E64E5C8CC3169AB8DF2C3E"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F10495787ED1429DBF1BD475E6B541B1"
-            {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdSQLDespachosEfectivoMontoYLitros.sql"
-            "TargetName" = "8:CmdSQLDespachosEfectivoMontoYLitros.sql"
-            "Tag" = "8:"
-            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2742,10 +2748,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FC282D890F4146248ACA1A4B3B31DA23"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F3C152D08A88489F814E9C10208D448A"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbMTRObtPrimerHoraTurno.sql"
-            "TargetName" = "8:CmdFbMTRObtPrimerHoraTurno.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaCuenca1.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaCuenca1.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -2762,10 +2768,30 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FF6E6DE9C64A490B9C51EBB494696DA5"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F61865961A764BBEAE7F5E49839713F3"
             {
-            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaParqueInd.sql"
-            "TargetName" = "8:CmdObtVentasDelDiaParqueInd.sql"
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdFbETNObtAlmacen.sql"
+            "TargetName" = "8:CmdFbETNObtAlmacen.sql"
+            "Tag" = "8:"
+            "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F87B5733835943EBB1CDB5E01BFC1DF8"
+            {
+            "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\bin\\Debug\\SQL\\CmdObtVentasDelDiaSantaFe.sql"
+            "TargetName" = "8:CmdObtVentasDelDiaSantaFe.sql"
             "Tag" = "8:"
             "Folder" = "8:_F3CA906EB2A74B5C935A65E3F5BE8E36"
             "Condition" = "8:"
@@ -3402,7 +3428,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4A6C22DDD53C4D26B48CC81175E38E35"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_215F5F7276214259B2FEED70D518EA73"
             {
             "SourcePath" = "8:..\\..\\EnviarVentasDiariasGasolinerasYPoint\\obj\\Debug\\EnviarVentasDiariasGasolinerasYPoint.exe"
             "TargetName" = "8:"
